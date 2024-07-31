@@ -1,2 +1,2 @@
 # Real-Time-Attendance-Tracking-Face-Recognition-System
-This is a project based on Face Recognition System for tracking the attendance in real time.
+This project is based on Face Recognition System for tracking the attendance in real time using machine learning model KNN, open cv and web application.
